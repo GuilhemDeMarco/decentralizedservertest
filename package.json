@@ -1,0 +1,19 @@
+{
+  "name": "decentralizedservertest",
+  "version": "1.0.0",
+  "description": "a concept for a decentralized server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhemDeMarco/decentralizedservertest.git"
+  },
+  "author": "Guilhem 'nekk' De Marco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuilhemDeMarco/decentralizedservertest/issues"
+  },
+  "homepage": "https://github.com/GuilhemDeMarco/decentralizedservertest#readme"
+}
